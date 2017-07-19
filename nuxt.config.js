@@ -13,7 +13,7 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
-  router: { base: '/gear-game-framework-site/' },
+  router: { base: 'https://geargameframework.github.io/' },
   /*
   ** Customize the progress-bar color
   */

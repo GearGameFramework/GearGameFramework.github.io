@@ -1,17 +1,17 @@
 {
-  "publicPath": "/gear-game-framework-site/_nuxt/",
+  "publicPath": "https://geargameframework.github.io/_nuxt/",
   "all": [
     "0.nuxt.bundle.bc2f0fa28479aa8be2a0.js",
     "1.nuxt.bundle.4c0cd4352e99678e59ed.js",
     "vendor.bundle.6743fffbb1eeceb23dde.js",
-    "nuxt.bundle.56becfe8d62d2f60a134.js",
-    "manifest.a3118339759933b9aa1b.js",
+    "nuxt.bundle.c9a24b64be37b5f35f4a.js",
+    "manifest.372769b156d0b29a2ee3.js",
     "index.html"
   ],
   "initial": [
-    "manifest.a3118339759933b9aa1b.js",
+    "manifest.372769b156d0b29a2ee3.js",
     "vendor.bundle.6743fffbb1eeceb23dde.js",
-    "nuxt.bundle.56becfe8d62d2f60a134.js"
+    "nuxt.bundle.c9a24b64be37b5f35f4a.js"
   ],
   "async": [
     "0.nuxt.bundle.bc2f0fa28479aa8be2a0.js",
